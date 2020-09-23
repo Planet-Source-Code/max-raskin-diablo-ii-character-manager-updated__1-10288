@@ -1,0 +1,9 @@
+frmMain = 42, 46, 737, 434, Z, 110, 110, 805, 498, C
+modMain = 22, 22, 717, 410, C
+modBrowseForFolder = 110, 110, 805, 498, C
+modShellFileOperation = 0, 0, 0, 0, C
+modINI = 66, 66, 761, 454, C
+mZip = 0, 0, 0, 0, C
+cZip = 132, 132, 828, 520, C
+mUnzip = 176, 176, 872, 564, C
+cUnzip = 154, 154, 850, 542, C
